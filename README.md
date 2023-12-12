@@ -12,8 +12,7 @@ Design Project
 ![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/9c56ff2c-c6f6-4681-8590-316b4a536f44)
 
 # SERTIFIKAT 
-![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/8db2daef-cd54-4126-892c-ff05e7ac08a2)
-
+![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/56f462a3-638e-4826-9220-051357bac82c)
 
 # DOKUMENTASI 
 ![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/0693621a-6412-4137-852f-e1464f89da4d)
