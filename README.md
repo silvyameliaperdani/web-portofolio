@@ -15,7 +15,7 @@ Design Project
 ![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/56f462a3-638e-4826-9220-051357bac82c)
 
 # DOKUMENTASI 
-![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/0693621a-6412-4137-852f-e1464f89da4d)
+![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/838eb8d7-7d84-4f74-a76b-1dc9cbb654f1)
 
 # CONTACT 
 ![image](https://github.com/silvyameliaperdani/web-portofolio/assets/121029600/514dacb2-0496-406b-bc8a-5daaba3cdbc2)
